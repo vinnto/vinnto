@@ -1,7 +1,7 @@
 ![Vinto Rizalfi](img/banner.png)
 
 ## 💻TechStack:
-![Frontend Dev](https://skillicons.dev/icons?i=html,css,js,react,vue,dart,flutter,laravel,firebase,mysql,postgres,postman,docker,kubernetes,azure,perline=3)
+![Frontend Dev](https://skillicons.dev/icons?i=html,css,js,react,vite,vue,figma,bootstrap,tailwind,dart,flutter,androidstudio,laravel,firebase,sqlite,mysql,postgres,git,postman,docker,kubernetes,azure,stackoverflow,unityperline=3)
 
 ## 🌐 Connect with me:
 ![https://instagram.com/is_fisabilillah](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/vintorizalfi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
