@@ -4,7 +4,7 @@
 ![Frontend Dev](https://skillicons.dev/icons?i=html,css,js,react,vite,vue,figma,bootstrap,tailwind,dart,flutter,androidstudio,laravel,firebase,sqlite,mysql,postgres,git,postman,docker,kubernetes,azure,stackoverflow,unityperline=3)
 
 ## 🌐 Connect with me:
-![https://instagram.com/is_fisabilillah](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/vintorizalfi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)![https://instagram.com/is_fisabilillah](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![https://www.linkedin.com/in/vintorizalfi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
 ![vinnto's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnto&show_icons=true&theme=chartreuse-dark)
